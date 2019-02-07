@@ -19,12 +19,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 ![](FlixApp.gif)
 
 
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
-Describe any challenges encountered while building the app.
+Attempted the bonus for allowing users to view the app on various devices. I added constraints to the Table View so that the height and width adjusted depending on the device. When adding constraints to the labels/imageView, they begin to overlap.
