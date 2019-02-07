@@ -26,3 +26,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ### Notes
 Attempted the bonus for allowing users to view the app on various devices. I added constraints to the Table View so that the height and width adjusted depending on the device. When adding constraints to the labels/imageView, they begin to overlap.
+
