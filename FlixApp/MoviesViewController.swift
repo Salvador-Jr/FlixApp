@@ -54,7 +54,7 @@ class MoviesViewController: UIViewController, UITableViewDelegate, UITableViewDa
         cell.titleLable.text = title
         cell.synopsisLable.text = synopsis
 
-        let baseUrl = "https://image.tmdb.org/t/p/w342"
+        let baseUrl = "https://image.tmdb.org/t/p/w185"
         let posterPath = movie["poster_path"] as! String
         let posterUrl = URL(string: baseUrl + posterPath)
         
